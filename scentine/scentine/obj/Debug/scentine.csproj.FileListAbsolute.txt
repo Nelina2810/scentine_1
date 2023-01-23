@@ -1,0 +1,10 @@
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа - практика\scentine\scentine\bin\scentine.dll
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа - практика\scentine\scentine\bin\scentine.pdb
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа - практика\scentine\scentine\obj\Debug\scentine.csprojResolveAssemblyReference.cache
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа - практика\scentine\scentine\obj\Debug\scentine.dll
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа - практика\scentine\scentine\obj\Debug\scentine.pdb
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа\scentine\scentine\bin\scentine.dll
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа\scentine\scentine\bin\scentine.pdb
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа\scentine\scentine\obj\Debug\scentine.csprojResolveAssemblyReference.cache
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа\scentine\scentine\obj\Debug\scentine.dll
+C:\Users\Мартин\Desktop\Дистанционно обучение - Нелина Тихомирова Димитрова 12е клас №19\Дипломна работа\scentine\scentine\obj\Debug\scentine.pdb
